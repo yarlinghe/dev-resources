@@ -122,6 +122,13 @@ export const resources: Resource[] = [
         url: 'https://www.gliesess.com/online-marketing-strategies',
     },
     {
+        name: 'GlitchText.cool',
+        description: 'Simple glitch text generator using Unicode combining characters to create distorted text effects.',
+        categories: ['Dev Tools'],
+        url: 'https://glitchtext.cool/',
+        keywords: ['Text Generator', 'Unicode', 'Zalgo Text', 'Weird Text'],
+    },
+    {
         name: 'GoatCounter',
         description:
             'GoatCounter is an open source web analytics platform available as a hosted service (free for non-commercial use) or self-hosted app.',
