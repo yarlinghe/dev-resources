@@ -246,6 +246,14 @@ export const resources: Resource[] = [
         keywords: ['fonts', 'free fonts', 'download fonts', 'font generator', 'famous font'],
     },
     {
+        name: 'FontGenerator.design',
+        description:
+            'Online text transformer that converts plain text into multiple Unicode-based styled fonts.',
+        categories: ['Font'],
+        url: 'https://fontgenerator.design/',
+        keywords: ['font generator', 'unicode fonts', 'emoji', 'unicode symbols ', 'online free tool'],
+    },
+    {
         name: 'Font Of Web',
         description: 'Identify and download website fonts.',
         categories: ['Font'],
